@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lekarri 
-- 👀 I’m interested in software development and cloud security
+- 👀 I’m interested in full stack development and cloud security
 - 🌱 I’m currently learning JavaScrip, C, C++ and Python 
-- 💞️ I’m looking to collaborate on Python object oriented projects
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me twitter handle Lekarri_K
 
 <!---
