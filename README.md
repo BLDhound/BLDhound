@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BLDhound
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lekarri 
+- 👀 I’m interested in software development and cloud security
+- 🌱 I’m currently learning JavaScrip, C, C++ and Python 
+- 💞️ I’m looking to collaborate on Python object oriented projects
+- 📫 How to reach me twitter handle Lekarri_K
 
 <!---
 BLDhound/BLDhound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
