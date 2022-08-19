@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lekarri 
 - 👀 I’m interested in DevOps and software Engineering 
-- 🌱 I’m currently learning JavaScript, C, C++, Python, Ansible, Docker and AWS
+- 🌱 I’m currently learning JavaScript, Jave, C, C++, and Python
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me twitter handle Lekarri_K
 
