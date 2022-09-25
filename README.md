@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lekarri 
 - 👀 I’m interested in DevOps and software Engineering 
 - 🌱 I’m currently learning JavaScript, Jave, C, C++, and Python
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on startups and development operations
 - 📫 How to reach me twitter handle Lekarri_K
 
 <!---
