@@ -1,7 +1,7 @@
-[![MasterHead](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg)
+![MasterHead](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg)
 <h1 align="center">Hi 👋, I'm Lekarri</h1>
 <h3 align="center">A passionate tech student</h3>
-<img align=“centre” alt=“coding” width=“400” src=“https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80”>
+<image align="centre" alt="coding" width="400" src="https://thumbs.gfycat.com/LonelyIcyCusimanse-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bldhound&label=Profile%20views&color=0e75b6&style=flat" alt="bldhound" /> </p>
 
